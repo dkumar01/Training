@@ -1,5 +1,11 @@
 import java.util.HashMap;
 
+/*
+Two Number Sum
+https://leetcode.com/problems/two-sum/
+https://www.algoexpert.io/questions/Two%20Number%20Sum
+*/
+
 public class TwoNumberSum {
 
     public int[] twoSum(int[] nums, int target) {
